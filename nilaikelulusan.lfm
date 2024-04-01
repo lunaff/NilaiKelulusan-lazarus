@@ -1,0 +1,108 @@
+object Form1: TForm1
+  Left = 248
+  Height = 334
+  Top = 113
+  Width = 527
+  Caption = 'Form1'
+  ClientHeight = 334
+  ClientWidth = 527
+  Font.Height = -27
+  LCLVersion = '3.2.0.0'
+  object Label1: TLabel
+    Left = 16
+    Height = 21
+    Top = 32
+    Width = 42
+    Caption = 'Nama'
+    Font.Height = -16
+    ParentFont = False
+  end
+  object Label2: TLabel
+    Left = 16
+    Height = 21
+    Top = 71
+    Width = 32
+    Caption = 'Nilai'
+    Font.Height = -16
+    ParentFont = False
+  end
+  object edtNama: TEdit
+    Left = 70
+    Height = 29
+    Top = 32
+    Width = 200
+    Font.Height = -16
+    ParentFont = False
+    TabOrder = 0
+  end
+  object edtNilai: TEdit
+    Left = 70
+    Height = 29
+    Top = 70
+    Width = 160
+    Font.Height = -16
+    ParentFont = False
+    TabOrder = 1
+  end
+  object Button1: TButton
+    Left = 70
+    Height = 25
+    Top = 144
+    Width = 99
+    Caption = 'Hitung Nilai'
+    Font.Height = -13
+    ParentFont = False
+    TabOrder = 2
+    OnClick = Button1Click
+  end
+  object Panel1: TPanel
+    Left = 288
+    Height = 264
+    Top = 32
+    Width = 216
+    BevelColor = clActiveCaption
+    ClientHeight = 264
+    ClientWidth = 216
+    Color = clActiveCaption
+    ParentBackground = False
+    ParentColor = False
+    TabOrder = 3
+    object Label3: TLabel
+      Left = 9
+      Height = 21
+      Top = 8
+      Width = 113
+      Caption = 'Status Kelulusan'
+      Font.Height = -16
+      ParentFont = False
+    end
+    object status: TLabel
+      Left = 14
+      Height = 1
+      Top = 33
+      Width = 1
+      Font.Height = -27
+      ParentColor = False
+      ParentFont = False
+    end
+    object Label4: TLabel
+      Left = 9
+      Height = 21
+      Top = 88
+      Width = 42
+      Caption = 'Grade'
+      Font.Height = -16
+      ParentFont = False
+    end
+    object grade: TLabel
+      Left = 17
+      Height = 1
+      Top = 108
+      Width = 1
+      Font.Color = clNone
+      Font.Height = -27
+      ParentColor = False
+      ParentFont = False
+    end
+  end
+end

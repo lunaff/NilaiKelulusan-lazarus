@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="nilaiKelulusanlpi.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="22"/>
+      </Unit>
+      <Unit>
+        <Filename Value="nilaikelulusan.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="nilaiKelulusan"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="18"/>
+        <CursorPos X="16" Y="82"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="nilaikelulusan.pas"/>
+        <Caret Line="53" Column="13" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="nilaikelulusan.pas"/>
+        <Caret Line="51" Column="11" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="nilaikelulusan.pas"/>
+        <Caret Line="52" Column="11" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="nilaikelulusan.pas"/>
+        <Caret Line="53" Column="17" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="nilaikelulusan.pas"/>
+        <Caret Line="29" Column="12" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="nilaikelulusan.pas"/>
+        <Caret Line="49" Column="38" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="nilaikelulusan.pas"/>
+        <Caret Line="52" Column="35" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="nilaikelulusan.pas"/>
+        <Caret Line="49" Column="36" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="nilaikelulusan.pas"/>
+        <Caret Line="52" Column="15" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="nilaikelulusan.pas"/>
+        <Caret Line="53" Column="5" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="nilaikelulusan.pas"/>
+        <Caret Line="48" Column="35" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="nilaikelulusan.pas"/>
+        <Caret Line="49" Column="37" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="nilaikelulusan.pas"/>
+        <Caret Line="63" Column="10" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="nilaikelulusan.pas"/>
+        <Caret Line="51" Column="9" TopLine="36"/>
+      </Position>
+      <Position>
+        <Filename Value="nilaikelulusan.pas"/>
+        <Caret Line="52" Column="9" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="nilaikelulusan.pas"/>
+        <Caret Line="64" Column="26" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="nilaikelulusan.pas"/>
+        <Caret Line="72" Column="30" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="nilaikelulusan.pas"/>
+        <Caret Line="69" Column="34" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="nilaikelulusan.pas"/>
+        <Caret Line="54" Column="14" TopLine="43"/>
+      </Position>
+      <Position>
+        <Filename Value="nilaikelulusan.pas"/>
+        <Caret Line="62" Column="26" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="nilaikelulusan.pas"/>
+        <Caret Line="48" Column="14" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="nilaikelulusan.pas"/>
+        <Caret Line="46" Column="21" TopLine="23"/>
+      </Position>
+      <Position>
+        <Filename Value="nilaikelulusan.pas"/>
+        <Caret Line="15" Column="12"/>
+      </Position>
+      <Position>
+        <Filename Value="nilaikelulusan.pas"/>
+        <Caret Line="104" Column="11" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="nilaikelulusan.pas"/>
+        <Caret Line="92" Column="30" TopLine="77"/>
+      </Position>
+      <Position>
+        <Filename Value="nilaikelulusan.pas"/>
+        <Caret Line="105" Column="9" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="nilaikelulusan.pas"/>
+        <Caret Line="90" Column="34" TopLine="77"/>
+      </Position>
+      <Position>
+        <Filename Value="nilaikelulusan.pas"/>
+        <Caret Line="97" Column="28" TopLine="77"/>
+      </Position>
+      <Position>
+        <Filename Value="nilaikelulusan.pas"/>
+        <Caret Line="82" Column="5" TopLine="55"/>
+      </Position>
+      <Position>
+        <Filename Value="nilaikelulusan.pas"/>
+        <Caret Line="48" Column="16" TopLine="45"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
